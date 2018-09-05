@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ser
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n\ x
+comment2.target=double\ series1(int,\ int)
+comment3.params=n\ a
+comment3.target=double\ series2(int,\ int)
+numComments=4
