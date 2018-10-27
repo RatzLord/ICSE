@@ -1,4 +1,5 @@
 #BlueJ class context
-comment0.params=len\ bre
-comment0.target=void\ main(int,\ int)
-numComments=1
+comment0.target=rectangle2
+comment1.params=len\ bre
+comment1.target=void\ main(int,\ int)
+numComments=2
